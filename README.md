@@ -1,2 +1,2 @@
 # CarInsurance
-Project to deisplay use of docker.
+Project to learn how to build a html website application using docker.
